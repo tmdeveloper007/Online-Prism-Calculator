@@ -50,41 +50,6 @@ For any right prism with base area $B$, base perimeter $P$, and height $h$:
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v20+ or v22+ recommended)
-- npm, pnpm, or yarn
-
-### Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/tmdeveloper007/onlineprismcalculator.com.git
-cd onlineprismcalculator.com
-
-# Install dependencies
-npm install
-
-# Start local development server
-npm run dev
-```
-
-Open [http://localhost:4321](http://localhost:4321) in your browser.
-
-### Production Build
-
-```bash
-# Build static production bundle
-npm run build
-
-# Preview build locally
-npm run preview
-```
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
